@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Soe Yi Yi Aung",
+      "email": "syya133@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "username": "Soe Yi Yi Aung",
+      "email": "syya133@gmail.com",
+      "password": "12345"
+    },
+    {
+      "username": "SYYA",
+      "email": "syya133@gmail.com",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "username": "Hi",
+      "email": "hii@mail.com",
+      "password": "457",
+      "id": 4
+    }
+  ]
+}
